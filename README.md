@@ -1,0 +1,1 @@
+link gemini=https://share.google/aimode/dvq4pnQDpjHWNbXTO
